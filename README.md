@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Iyke
-- 👀 I’m interested in Web Development, Cloud Computing and Artificial Intelligence.
-- 🌱 I’m currently learning Web Development and AWS Cloud Practitioner Essentials
+- 👋 Hi, My name is Iyke Hermes.
+- 👀 I’m interested in Web Development, Software Development.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me by email (ogumbaiyke@gmail.com)
 - Thank you for taking the time to read my Github profile.
